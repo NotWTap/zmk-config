@@ -3,4 +3,7 @@ if SHIELD_TEST
 config ZMK_KEYBOARD_NAME
     default "corne_left"
 
+config ZMK_SPLIT
+    default y
+
 endif
