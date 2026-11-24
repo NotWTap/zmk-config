@@ -1,0 +1,12 @@
+if SHIELD_TEST_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "test_left"
+
+config ZMK_SPLIT
+    default y
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default n
+
+endif
