@@ -22,4 +22,4 @@ include:
   - board: nice_nano
     shield: corne_left
   - board: nice_nano
-    shield: corne_dongle prospector_adapter
+    shield: corne_left prospector_adapter
